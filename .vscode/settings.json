@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "stdlib.h": "c",
+        "locale": "c",
+        "fclose_test.h": "c"
+    }
+}
