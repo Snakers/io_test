@@ -71,7 +71,7 @@ ctest
 
 ##Note: You can call ctest by splitting each test in a saparate main file. 
 
-But you need to modify cmake lists like:
+But you need to modify cmakelists similar to:
 ```
 cmake_minimum_required(VERSION 3.10)
 project(MyIOTest)
